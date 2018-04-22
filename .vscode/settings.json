@@ -1,4 +1,16 @@
 // Place your settings in this file to overwrite default and user settings.
 {
-    "files.autoSave": "afterDelay"
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.shell.windows":
+    "D:\\Program Files HDD ONE\\Git\\bin\\bash.exe",
+  //"terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "explorer.confirmDelete": false,
+  "workbench.sideBar.location": "left",
+  "editor.minimap.enabled": false,
+  "git.confirmSync": false,
+  "editor.formatOnSave": true,
+  "telemetry.enableTelemetry": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.statusBar.feedback.visible": false,
+  "explorer.confirmDragAndDrop": false
 }
